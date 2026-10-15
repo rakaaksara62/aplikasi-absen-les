@@ -1,0 +1,18 @@
+# Flet & Build cache
+.flet/
+build/
+dist/
+
+# Python cache & virtual environment
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Database & Environment variables
+*.db
+.env
+
+# IDE / Editor Settings
+.vscode/
+.idea/
